@@ -12,4 +12,4 @@ In this project, we explore data related to bike share systems for three major c
 We use "csv" files to get information.
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Some [links](https://www.learnpython.org/en/Pandas_Basics) that help us achieve this project.
