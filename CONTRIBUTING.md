@@ -8,3 +8,6 @@ Follow the coding style
 
 
 Learn more about the architecture
+
+Tracking error
+we track our error with Sentry.
